@@ -18,4 +18,6 @@ desktop.ini
 # Sensitive files / keys
 *recovery*
 *.txt
+!robots.txt
+!llms.txt
 *.env*

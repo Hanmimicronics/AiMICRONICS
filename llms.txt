@@ -1,0 +1,28 @@
+﻿# Micronics (한미마이크로닉스) — Enterprise GPU Infrastructure
+
+> Micronics provides dedicated GPU servers, bare metal environments, and managed colocation services for enterprise AI workloads (model training, LLM fine-tuning, inference, HPC, and rendering).
+
+## Company Overview
+- **Company**: Hanmi Micronics Co., Ltd. (한미마이크로닉스)
+- **Website**: https://micronicsseversite.vercel.app/
+- **Contact**: service@micronics.co.kr | 1522-6399
+- **Headquarters**: 72, Samdo-ro 48beon-gil, Yangchon-eup, Gimpo-si, Gyeonggi-do, Republic of Korea
+
+## Service Models (협력 및 서비스 모델)
+1. **Enterprise Rental (기업형 GPU 서버 임대)**: Dedicated GPU servers deployed in data centers for LLM training and inference without upfront hardware purchase.
+2. **Colocation & Managed Hosting (자산 위탁 코로케이션)**: Secure data center hosting, power, cooling, cabling, and hardware maintenance for customer-owned servers.
+3. **Custom Server Configuration (맞춤형 완제품 서버 제작/납품)**: Turnkey delivery of integrated 6U / 7U GPU servers on Intel Xeon Scalable or AMD EPYC platforms.
+
+## Hardware Platforms
+- **6U GPU Rack Server**:
+  - Target GPUs: RTX PRO 6000, NVIDIA H100, H200 data center GPUs (up to 8~10 dual-width GPUs).
+  - Platform options: Dual Intel Xeon Scalable (PCIe 5.0, up to 32 DDR5 slots) or Dual AMD EPYC 9004/9005 (PCIe 5.0, up to 24 DDR5 slots).
+- **7U GPU Rack Server**:
+  - Direct support for up to 8 triple-slot consumer-grade fan GPUs (including NVIDIA GeForce RTX 5090 / RTX 4090) without liquid cooling or blower conversion.
+  - Platform options: Dual 4th/5th Gen Intel Xeon Scalable or Dual AMD EPYC 9004/9005 series.
+
+## GPU Range
+- NVIDIA GeForce RTX 4090, RTX 5090
+- NVIDIA L40S, RTX 6000 Ada, RTX PRO 6000
+- NVIDIA A100, H100, H200
+- Cluster-scale projects: NVIDIA B200, GB200, GB300
