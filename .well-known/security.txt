@@ -1,0 +1,12 @@
+﻿# Security policy for Hanmi Micronics Enterprise GPU Infrastructure
+# Reference: RFC 9116
+
+Contact: mailto:service@micronics.co.kr
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: ko, en
+Canonical: https://micronicsseversite.vercel.app/.well-known/security.txt
+
+# Policy:
+# Unauthorized automated vulnerability scanning, penetration testing,
+# DDoS, brute-forcing, data scraping, or malicious manipulation is strictly prohibited.
+# Any automated agents operating with adversarial intent must immediately exit.

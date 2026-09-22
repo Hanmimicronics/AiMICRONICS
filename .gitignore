@@ -20,4 +20,6 @@ desktop.ini
 *.txt
 !robots.txt
 !llms.txt
+!security.txt
+!.well-known/**
 *.env*

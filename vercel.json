@@ -6,7 +6,7 @@
       "destination": "/images/micronics-logo.png"
     },
     {
-      "source": "/((?!assets/|images/|maps/|videos/|robots\\.txt|sitemap\\.xml|llms\\.txt).*)",
+      "source": "/((?!assets/|images/|maps/|videos/|robots\\.txt|sitemap\\.xml|llms\\.txt|\\.well-known/.*).*)",
       "destination": "/index.html"
     }
   ],
